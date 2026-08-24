@@ -20,7 +20,7 @@ Below is the architecture of the first regular CNN model:
 ## Detailed Project Documentation
 For a full explanation of the project, including motivation, methodology, results, and analysis, refer to:
 
-📄 [Project Details Document](project_details.pdf)
+[Project Details Document](project_details.pdf)
 
 ## Installation
 ```bash
