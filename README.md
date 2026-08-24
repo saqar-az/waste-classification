@@ -15,12 +15,12 @@ A deep learning model for classifying waste into 10 categories and detecting mul
 ## Model Architecture
 Below is the architecture of the first regular CNN model:
 
-![Model Architecture](reg_cnn.jpg)
+![Model Architecture](images/reg_cnn.jpg)
 
 ## Detailed Project Documentation
 For a full explanation of the project, including motivation, methodology, results, and analysis, refer to:
 
-[Project Details Document](project_details.pdf)
+[Project Details Document](doc/project_details.pdf)
 
 ## Installation
 ```bash
